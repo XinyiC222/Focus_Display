@@ -40,7 +40,13 @@ void Encoder::update()
 
 int Encoder::getDelta()
 {
+    int val = _delta;
+    _delta = 0;
+    return val;
 }
 bool Encoder::wasClicked()
 {
+    bool val = _clicked;
+    _clicked = false;
+    return val;
 }
