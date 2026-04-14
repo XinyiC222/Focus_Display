@@ -8,8 +8,8 @@
 
 // openWeatherMap
 #define OWM_API_KEY "19c5c93aa101cd089a27c8e57f89d9a4"
-#define OWN_CITY "San Francisco"
-#define OWN_COUNTRY "US"
+#define OWM_CITY "San Francisco"
+#define OWM_COUNTRY "US"
 #define WEATHER_REFRESH_MS 600000
 
 // pins

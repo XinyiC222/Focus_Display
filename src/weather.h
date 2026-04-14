@@ -5,7 +5,7 @@ struct WeatherData
 {
     float temperature;
     float humidity;
-    String descirption;
+    String description;
     String cityName;
     bool valid;
 };
@@ -16,11 +16,11 @@ public:
     Weather();
 
     void begin();
-    void fetch();
+    bool fetch();
     WeatherData getData();
     bool isConnected();
 
 private:
     WeatherData _data;
-    void connnectWifi();
+    void connectWifi();
 };
