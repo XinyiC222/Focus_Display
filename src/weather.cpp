@@ -77,7 +77,7 @@ bool Weather::fetch()
     http.end();
 
     // parsed data
-    StaticJsonDocument<1024> doc;
+    JsonDocument doc;
     DeserializationError error = deserializeJson(doc, payload);
 
     if (error)
