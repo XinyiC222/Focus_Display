@@ -12,11 +12,11 @@ I first looked up some components I could use on aliexpress, then I started 3d m
 | Item  |  Purpose | Price | Source |
 | ------------- | ------------- | ------------- | ------------- |
 | Rubber Pads | Prevent slipping | $1.99 | Aliexpress |
-| ESP 32 USB-C | Powerhouse | $5.19 | Aliexpress |
+| ESP 32 USB-C | Powerhouse | $4.93 | Aliexpress |
 | Passive Buzzer | To alert when timer starts/stops | $1.59 | Aliexpress |
 | KY-040 Rotary Encoder | To change the timer and for control | $1.79 | Aliexpress |
 | WeAct 3.7 Inch Epaper Module E-paper | Display | $10.75 | Aliexpress |
 | 3d printed case | case | ~$5.00 | Printing Legion(Hack Club) |
-|  |  |  | **Subtotal: $26.31**  |
-| 3d Printed Parts: $5.00 | Aliexpress: $21.31 |  **Total (tax + shipping): $33.84** |
+|  |  |  | **Subtotal: $30.98**  |
+| 3d Printed Parts: $5.00 | Aliexpress: $25.98 |  **Total (tax + shipping): $35.65** |
 
