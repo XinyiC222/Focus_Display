@@ -18,5 +18,5 @@ I first looked up some components I could use on aliexpress, then I started 3d m
 | WeAct 3.7 Inch Epaper Module E-paper | Display | $10.75 | Aliexpress |
 | 3d printed case | case | ~$0 | Printing Legion(Hack Club) |
 |  |  |  | **Subtotal: $25.98**  |
-| Aliexpress: $25.98 |  **Total (tax + shipping): $30.65** |
+|  |  | Aliexpress: $25.98 |  **Total (tax + shipping): $30.65** |
 
