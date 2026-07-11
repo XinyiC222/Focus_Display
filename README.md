@@ -18,7 +18,7 @@ The 3d printed case is under the 3d Print Files Folder. If you'll like to check 
 ## BOM
 | Item  |  Purpose | Price | Source |
 | ------------- | ------------- | ------------- | ------------- |
-| Mini BreadBoard | multiple GND and 3v3 | $0.99 | [Aliexpress]((https://www.aliexpress.us/item/3256805668858915.html?mp=1&pdp_npi=6@dis!USD!USD+2.14!USD+0.99!!USD+0.99!!!@21030f8317838070782482543e0ff1!12000034586923065!ct!US!7294405090!!1!0!&gatewayAdapt=glo2usa)) |
+| Mini BreadBoard | multiple GND and 3v3 | $0.99 | [Aliexpress](https://www.aliexpress.us/item/3256805668858915.html?mp=1&pdp_npi=6@dis!USD!USD+2.14!USD+0.99!!USD+0.99!!!@21030f8317838070782482543e0ff1!12000034586923065!ct!US!7294405090!!1!0!&gatewayAdapt=glo2usa) |
 | Rubber Pads | Prevent slipping | $2.35 | [Aliexpress](https://www.aliexpress.us/item/3256806771014461.html?mp=1&pdp_npi=6@dis!USD!USD+2.35!USD+2.35!!USD+2.35!!!@21030f8317838073132111949e0ff1!12000039096298475!ct!US!7294405090!!1!0!&gatewayAdapt=glo2usa) |
 | ESP 32 USB-C | Powerhouse | $4.79 | [Aliexpress](https://www.aliexpress.us/item/3256806272683698.html?mp=1&sourceType=570&pdp_npi=6@dis!USD!USD+15.92!USD+4.79!!USD+3.68!!!@21030f8317838074912838475e0ff1!12000037271676157!ct!US!7294405090!!2!0!&pdp_ext_f=%7B%22cart2PdpParams%22:%7B%22sourceType%22:%22570%22,%22cartSource%22:%22main%22%7D%7D&gatewayAdapt=glo2usa) |
 | Passive Buzzer | To alert when timer starts/stops | $1.59 | [Aliexpress](https://www.aliexpress.us/item/3256806852143766.html?mp=1&sourceType=570&pdp_npi=6@dis!USD!USD+3.18!USD+1.59!!USD+1.22!!!@21030f8317838074912838475e0ff1!12000039180355191!ct!US!7294405090!!1!0!&pdp_ext_f=%7B%22cart2PdpParams%22:%7B%22sourceType%22:%22570%22,%22cartSource%22:%22main%22%7D%7D&gatewayAdapt=glo2usa) |
