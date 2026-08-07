@@ -14,7 +14,7 @@ Here below is a wiring diagram that show how each part connects! You can use thi
 The 3d printed case is under the 3d Print Files Folder. If you'll like to check out the project files you can find it in the folder called Project Files. The code files are all under src.
 
 <h1>Flash</h1>
-First plug in your esp32 to your device. Then install the platformio extension in VScode. Then install the ESP32 driver into the device. Mines uses CH340, so I got mines from [here](https://www.wch-ic.com/downloads/CH341SER_ZIP.html) Using the source files you got in this repository, you can easily flash it into your ESP32 by clicking the arrow button on the bottom of vscode.
+First plug in your esp32 to your device. Then install the platformio extension in VScode. Then install the ESP32 driver into the device. Mines uses CH340, so I got mines from here:(https://www.wch-ic.com/downloads/CH341SER_ZIP.html) Using the source files you got in this repository, you can easily flash it into your ESP32 by clicking the arrow button on the bottom of vscode.
 
 
 
