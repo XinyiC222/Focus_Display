@@ -1,4 +1,4 @@
-<h1>Focus Display</h1>
+<h1>Focus Display!WORK IN PROGRESS!</h1>
 A personal device that is powered by a ESP32 with an E-ink display. It shows the weather, date, and you can also set a timer with the rotary encoder on the side for control!
 <h1>Why I built it</h1>
 I built this becuase as a student, it really helps me when I had a timer set for each task, espcially using the pomodoro method. This not only makes me feel organized, but I also get this done quicker. I was inspired by projects online that I saw. One of the projects I used as inspo was the E-ink Pomodoro timer by Cameron Coward:https://www.hackster.io/news/increase-your-productivity-with-this-diy-e-ink-pomodoro-timer-986085d57d91. Having a timer on my table would be way better and less distraction then setting up a timer on my phone.
