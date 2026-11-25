@@ -6,6 +6,10 @@ I built this becuase as a student, it really helps me when I had a timer set for
 I first looked up some components I could use on aliexpress, then I started 3d modeling the case in Fusion360 based on the components!
 
 <img width="1504" height="934" alt="image" src="https://github.com/user-attachments/assets/fc4b2041-4878-4b54-b2ea-6a07ff7fc6d8" />
+<img width="1280" height="720" alt="render1" src="https://github.com/user-attachments/assets/a6b54fec-fb7b-4f2f-adc2-4aa534dfd9c4" />
+<img width="1280" height="720" alt="render3" src="https://github.com/user-attachments/assets/6b301c3f-6d7d-4de5-8dce-3731af467dc4" />
+<img width="1280" height="720" alt="render2" src="https://github.com/user-attachments/assets/a21e9eab-9b9a-49f5-9df3-515620c2cb09" />
+
  After the inital design, I thought about other ways to improve it. at first, there was only the e-ink screen and the rotary encoder. Then I decided to add the buzzer and some rubber feets to prevent the device from slipping. The case would be 3d printed. I also added a few hole on the back of the case so that the buzzer's noise can be heard from the back. After I finished desigining I started programming it! I'm almost done with the code as of now.
 
 <h1>How to make your own!</h1>
