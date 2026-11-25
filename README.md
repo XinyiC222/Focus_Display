@@ -28,7 +28,9 @@ First plug in your esp32 to your device. Then install the platformio extension i
 | KY-040 Rotary Encoder | To change the timer and for control | $1.89 | [Aliexpress](https://www.aliexpress.us/item/3256809392189426.html?mp=1&sourceType=570&pdp_npi=6@dis!USD!USD+3.95!USD+1.79!!USD+1.38!!!@21030f8317838074912838475e0ff1!12000049518740990!ct!US!7294405090!!1!0!&pdp_ext_f=%7B%22cart2PdpParams%22:%7B%22sourceType%22:%22570%22,%22cartSource%22:%22main%22%7D%7D&gatewayAdapt=glo2usa) |
 | WeAct 3.7 Inch Epaper Module E-paper | Display | $11.20 | [Aliexpress](https://www.aliexpress.us/item/3256809525844585.html?mp=1&pdp_npi=6@dis!USD!USD+11.66!USD+11.66!!USD+11.66!!!@21030f8317838073132111949e0ff1!12000049927000015!ct!US!7294405090!!1!0!&gatewayAdapt=glo2usa) |
 | Jumper Wires | connecting | $0.99 | [Aliexpress](https://www.aliexpress.us/item/3256806860151128.html?mp=1&pdp_npi=6@dis!USD!USD+4.63!USD+2.69!!USD+2.69!!!@21030f8317838073132111949e0ff1!12000039211508993!ct!US!7294405090!!1!0!&gatewayAdapt=glo2usa) |
-| 3d printed case | case | $0 | Printing Legion(Hack Club) |
+| M2x3x3.2 heat inserts | securing prints | $0 | Own |
+| M2x6mm Bolts | securing prints | $0 | Own |
+| 3d printed case | case | $10 | Printing Legion(Hack Club) |
 |  |  |  | **Subtotal: $28.97**  |
 |  |  | Aliexpress: $28.97 |  **Total (tax + shipping): $34.72** |
 
